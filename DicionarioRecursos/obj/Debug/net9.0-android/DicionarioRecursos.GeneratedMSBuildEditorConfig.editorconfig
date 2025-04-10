@@ -1,0 +1,73 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DicionarioRecursos
+build_property.ProjectDir = C:\Users\leods\source\repos\DicionarioRecursos\DicionarioRecursos\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = DarkTheme.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = LightTheme.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/pgConfigTema.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.pgConfigTema.xaml
+build_metadata.AdditionalFiles.TargetPath = pgConfigTema.xaml
+build_metadata.AdditionalFiles.RelativePath = pgConfigTema.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/leods/source/repos/DicionarioRecursos/DicionarioRecursos/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DicionarioRecursos.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Styles.xaml
