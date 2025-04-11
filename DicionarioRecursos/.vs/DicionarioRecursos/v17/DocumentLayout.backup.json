@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\styles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\styles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\pgconfigtema.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\pgconfigtema.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\pgconfigtema.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\pgconfigtema.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\darktheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\darktheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\lighttheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\lighttheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|c:\\users\\leods\\onedrive\\\u00E1rea de trabalho\\mobile_01-main\\dicionariorecursos\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C877B291-79C6-417F-B1C4-0C164259FDBA}|DicionarioRecursos\\DicionarioRecursos.csproj|solutionrelative:dicionariorecursos\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\MainPage.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:23:48.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\MainPage.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:23:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\Styles.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\Styles.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\Styles.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:19:20.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightTheme.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\LightTheme.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\LightTheme.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\LightTheme.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\LightTheme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:19:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pgConfigTema.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\pgConfigTema.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\pgConfigTema.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\pgConfigTema.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\pgConfigTema.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:19:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pgConfigTema.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\pgConfigTema.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\pgConfigTema.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\pgConfigTema.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\pgConfigTema.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:20:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Styles.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\Styles.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\Styles.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\Styles.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\Styles.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:19:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\LightTheme.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\LightTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:19:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\App.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:18:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\App.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\App.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\App.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:20:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DarkTheme.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\DarkTheme.xaml.cs",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\DarkTheme.xaml.cs",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\DarkTheme.xaml.cs",
+              "RelativeToolTip": "DicionarioRecursos\\DarkTheme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:18:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "DicionarioRecursos\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\leods\\OneDrive\\\u00C1rea de Trabalho\\mobile_01-main\\DicionarioRecursos\\DarkTheme.xaml",
+              "RelativeToolTip": "DicionarioRecursos\\DarkTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T23:18:52.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

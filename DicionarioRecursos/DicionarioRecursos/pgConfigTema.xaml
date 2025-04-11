@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DicionarioRecursos.pgConfigTema"
+             Title="Tema"
+             BackgroundColor="{DynamicResource BackgroundColor}">
+
+    <StackLayout Padding="20" Spacing="15">
+        <Label Text="Configuração de Tema"
+               Style="{DynamicResource LargeLabelStyle}"
+               HorizontalOptions="Center" />
+
+        <Button Text="Modo Claro"
+                Style="{DynamicResource PrimaryButtonStyle}"
+                Clicked="btnClaroClicked" />
+
+        <Button Text="Modo Escuro"
+                Style="{DynamicResource SecondaryButtonStyle}"
+                Clicked="btnEscuroClicked" />
+
+        <Button Text="Voltar"
+                Style="{DynamicResource SecondaryButtonStyle}"
+                Clicked="btnVoltarClicked" />
+    </StackLayout>
+</ContentPage>
