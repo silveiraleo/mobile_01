@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\DicionarioRecursos.csproj": {}
+    "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\DicionarioRecursos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\DicionarioRecursos.csproj": {
+    "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\DicionarioRecursos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\DicionarioRecursos.csproj",
+        "projectUniqueName": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\DicionarioRecursos.csproj",
         "projectName": "DicionarioRecursos",
-        "projectPath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\DicionarioRecursos.csproj",
+        "projectPath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\DicionarioRecursos.csproj",
         "packagesPath": "C:\\Users\\leods\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\obj\\",
+        "outputPath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

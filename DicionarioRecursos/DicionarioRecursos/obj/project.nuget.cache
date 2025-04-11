@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fG8P3TpxbI=",
+  "dgSpecHash": "Ci84vKv9yYo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01-main\\DicionarioRecursos\\DicionarioRecursos.csproj",
+  "projectFilePath": "C:\\Users\\leods\\OneDrive\\Área de Trabalho\\mobile_01\\DicionarioRecursos\\DicionarioRecursos\\DicionarioRecursos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leods\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\leods\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
